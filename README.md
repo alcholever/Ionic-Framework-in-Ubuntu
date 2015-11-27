@@ -1,6 +1,6 @@
 ## Install Android, Cordova, and Ionic Framework in Ubuntu 
 
-[![Issues Ready](https://badge.waffle.io/driftyco/ionic.png?label=ready&title=Ready)](https://waffle.io/driftyco/ionic)  [![Circle CI](https://circleci.com/gh/driftyco/ionic.svg?style=svg)](https://circleci.com/gh/driftyco/ionic) 
+[![Issues Ready](https://badge.waffle.io/driftyco/ionic.png?label=ready&title=Ready)](https://waffle.io/driftyco/ionic)  [![Circle CI](https://circleci.com/gh/alcholever/Ionic-Framework-in-Ubuntu?style=svg)](https://circleci.com/alcholever/Ionic-Framework-in-Ubuntu) 
 
 
 ![Ionic-Framework-in-Ubuntu](https://scontent-cdg2-1.xx.fbcdn.net/hphotos-xpt1/t31.0-0/p552x414/12307518_10204428266499922_607647992136099322_o.jpg)
