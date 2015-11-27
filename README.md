@@ -32,6 +32,8 @@ The installation script will download and configure the following:
   * NodeJS / NPM
   * Apache Cordova
   * Ionic Framework
+ 
+  
 ## Screenshot
 ![Ionic-Framework-in-Ubuntu-3](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpt1/t31.0-8/p720x720/12307518_10204428275380144_2747337350250499513_o.jpg)
 
