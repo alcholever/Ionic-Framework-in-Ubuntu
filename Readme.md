@@ -1,5 +1,7 @@
 ## Install Android, Cordova, and Ionic Framework in Ubuntu 
 
+[![Join the chat at https://gitter.im/alcholever/Ionic-Framework-in-Ubuntu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/alcholever/Ionic-Framework-in-Ubuntu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
 ![Ionic-Framework-in-Ubuntu](https://scontent-cdg2-1.xx.fbcdn.net/hphotos-xpt1/t31.0-0/p552x414/12307518_10204428266499922_607647992136099322_o.jpg)
