@@ -15,11 +15,11 @@ If you’re interested in Ionic Framework, you can `just download a convenient s
 To install everything using the shell script I provided, download it and do the following:
 
 ```bash
-$ chmod 775 ubuntu_ionic_installer.sh
+$ chmod 775 Ionic-in-Ubuntu.sh
 ```
      
 ```bash
-$ sudo ./ubuntu_ionic_installer.sh
+$ sudo ./Ionic-in-Ubuntu.sh
 ```
     
 
