@@ -59,8 +59,8 @@ ANDROID_SDK_X64="http://dl.google.com/android/android-sdk_r24.2-linux.tgz"
 ANDROID_SDK_X86="http://dl.google.com/android/android-sdk_r24.2-linux.tgz"
 
 # Latest NodeJS for x64 and x86 as of 7-5-2015
-NODE_X64="http://nodejs.org/dist/v5.1.0/node-v5.1.0-linux-x64.tar.gz"
-NODE_X86="http://nodejs.org/dist/v5.1.0/node-v5.1.0-linux-x86.tar.gz"
+NODE_X64="http://nodejs.org/dist/v4.4.5/node-v4.4.5-linux-x64.tar.gz"
+NODE_X86="http://nodejs.org/dist/v4.4.5/node-v4.4.5-linux-x86.tar.gz"
 
 if [ "$LINUX_ARCH" == "x86_64" ]; then
     # Add i386 architecture
